@@ -1,0 +1,26 @@
+{
+  "name": "sol_nft_radar_privilleged_poll_bot",
+  "version": "1.0.0",
+  "description": "A custom bot that prevents users without the proper roles from reacting on polls in the Solana NFT Radar server.",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.24.0",
+    "discord.js": "^13.3.1",
+    "dotenv-safe": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcusteh1238/sol_nft_radar_privilleged_poll_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcusteh1238/sol_nft_radar_privilleged_poll_bot/issues"
+  },
+  "homepage": "https://github.com/marcusteh1238/sol_nft_radar_privilleged_poll_bot#readme"
+}
