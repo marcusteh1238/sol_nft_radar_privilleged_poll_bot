@@ -5,7 +5,8 @@ const privillegedPollChannels = ["896571025125421066"];
 const privillegedPollRoles = [
   "908565702099730504", 
   "896571850153418773", 
-  "941515097799540767"
+  "941515097799540767",
+  "916065396916899871"
 ];
 
 module.exports = {
